@@ -107,7 +107,7 @@ def get_laptop_info(product_url):
         driver.quit()
     
 def get_all_laptop(url): 
-    """Input: main product page
+    """Input: main product page(which includes all products)
     Output: a list of dictionary with each dict correspond to a laptop sample"""
     #get soup at main laptop page
     soup = laptoplistpage(url)
