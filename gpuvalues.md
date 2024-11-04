@@ -1,0 +1,36 @@
+Intel Arc Graphics
+NVIDIA GeForce RTX 4050
+NVIDIA GeForce RTX 4060
+NVIDIA GeForce RTX 4070
+Intel Iris Xe Graphics
+AMD Radeon 610M
+Intel UHD Graphics
+AMD Radeon Graphics
+NVIDIA GeForce RTX 3050
+AMD Radeon 890M
+AMD Radeon 780M
+NVIDIA GeForce RTX 4080
+AMD Radeon 760M
+nan
+NVIDIA GeForce RTX 2050
+NVIDIA GeForce RTX 3050Ti
+NVIDIA GeForce MX570A 2GB GDDR6
+NVIDIA GeForce MX550 2GB GDDR6
+NVIDIA GeForce RTX 4090
+AMD Radeon 610
+NVIDIA GeForce RTX 3060
+AMD Radeon 680M
+Qualcomm Adreno GPU
+Intel UHD Graphics 770
+NVIDIA GeForce RTX 2000
+NVIDIA GeForce RTX A500
+NVIDIA GeForce RTX 3070Ti
+NVIDIA GeForce RTX 3070
+NVIDIA GeForce GTX 1650
+AMD Radeon Vega 8 Graphics
+AMD Radeon 880M
+AMD Radeon Vega 7 Graphics
+NVIDIA GeForce MX570 2GB GDDR6
+AMD Radeon 660M
+Intel Arc A530M 4GB GDDR6
+NVIDIA GeForce RTX A1000
